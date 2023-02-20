@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="string_item_name">Item Name</string>
+	<string name="not_found">Not Found!</string>
+
+	<string name="app_name">Multi Select Spinner</string>
+
+	<string name="type_to_search">Type to Search</string>
+
+	<string name="single_item_selection_spinner">Single Item Selection Spinner</string>
+	<string name="multi_item_selection_spinner">Multi Item Selection Spinner</string>
+	<string name="select_all_button">Select All Button</string>
+	<string name="color_separation_in_row">Color Separation in Row</string>
+	<string name="search_edit_text">Search EditText</string>
+	<string name="limited_selection_limit_given_5">Limited Selection (Limit given 5)</string>
+
+	<string-array name="android_array">
+		<item>Dr .snehal</item>
+		<item>abc</item>
+
+	</string-array>
+
+
+</resources>
